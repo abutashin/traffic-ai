@@ -1,0 +1,17 @@
+path: ../Dataset_Final  # This will be relative to where you run the command
+train: images/train
+val: images/val
+
+# YOUR 11 CLASSES (Must match your labels exactly)
+names:
+  0: Auto Rickshaw
+  1: Cycle Rickshaw
+  2: CNG / Tempo
+  3: Bus
+  4: Jeep / SUV
+  5: Microbus
+  6: Minibus
+  7: Motorcycle
+  8: Truck
+  9: Private Sedan Car
+  10: Trailer
