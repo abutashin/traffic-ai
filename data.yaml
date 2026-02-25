@@ -1,0 +1,18 @@
+# We will point this to the processed folder later, but set it up now.
+path: ../dataset_processed 
+train: images/train
+val: images/val
+
+# Class names matching your PDF
+names:
+  0: Auto Rickshaw
+  1: Cycle Rickshaw
+  2: CNG / Tempo
+  3: Bus
+  4: Jeep / SUV
+  5: Microbus
+  6: Minibus
+  7: Motorcycle
+  8: Truck
+  9: Private Sedan Car
+  10: Trailer
